@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Input Calculator/Input Calculator.iml" filepath="$PROJECT_DIR$/Input Calculator/Input Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Paint Job/Paint Job.iml" filepath="$PROJECT_DIR$/Paint Job/Paint Job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Udemy.iml" filepath="$PROJECT_DIR$/.idea/Udemy.iml" />
+    </modules>
+  </component>
+</project>

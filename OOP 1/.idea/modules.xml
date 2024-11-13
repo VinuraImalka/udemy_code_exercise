@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Carpet Cost Calculator/Carpet Cost Calculator.iml" filepath="$PROJECT_DIR$/Carpet Cost Calculator/Carpet Cost Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Complex Operations/Complex Operations.iml" filepath="$PROJECT_DIR$/Complex Operations/Complex Operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cylinder/Cylinder.iml" filepath="$PROJECT_DIR$/Cylinder/Cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP 1.iml" filepath="$PROJECT_DIR$/.idea/OOP 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POJO VS Record/POJO VS Record.iml" filepath="$PROJECT_DIR$/POJO VS Record/POJO VS Record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Point/Point.iml" filepath="$PROJECT_DIR$/Point/Point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pool Area/Pool Area.iml" filepath="$PROJECT_DIR$/Pool Area/Pool Area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum Calculator/Sum Calculator.iml" filepath="$PROJECT_DIR$/Sum Calculator/Sum Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wall Area/Wall Area.iml" filepath="$PROJECT_DIR$/Wall Area/Wall Area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop1/oop1.iml" filepath="$PROJECT_DIR$/oop1/oop1.iml" />
+    </modules>
+  </component>
+</project>

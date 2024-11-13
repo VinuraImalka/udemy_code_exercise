@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/high/high.iml" filepath="$PROJECT_DIR$/high/high.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srtup2/srtup2.iml" filepath="$PROJECT_DIR$/srtup2/srtup2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/steup/steup.iml" filepath="$PROJECT_DIR$/steup/steup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1.iml" filepath="$PROJECT_DIR$/test1.iml" />
+    </modules>
+  </component>
+</project>
